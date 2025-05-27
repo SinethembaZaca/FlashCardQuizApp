@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "vcmsa.ci.flashcardquizapp-mergeDebugResources-50:/layout/activity_review.xml",
+        "source": "vcmsa.ci.flashcardquizapp-main-53:/layout/activity_review.xml"
+    },
+    {
+        "merged": "vcmsa.ci.flashcardquizapp-mergeDebugResources-50:/layout/activity_score.xml",
+        "source": "vcmsa.ci.flashcardquizapp-main-53:/layout/activity_score.xml"
+    },
+    {
+        "merged": "vcmsa.ci.flashcardquizapp-mergeDebugResources-50:/layout/activity_welcome.xml",
+        "source": "vcmsa.ci.flashcardquizapp-main-53:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "vcmsa.ci.flashcardquizapp-mergeDebugResources-50:/layout/activity_quiz.xml",
+        "source": "vcmsa.ci.flashcardquizapp-main-53:/layout/activity_quiz.xml"
+    }
+]

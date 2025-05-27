@@ -1,0 +1,8 @@
+C:\Users\lab_services_student\AndroidStudioProjects\FlashCardQuizApp2\app\src\main\java\vcmsa\ci\flashcardquizapp\QuizActivity.kt
+C:\Users\lab_services_student\AndroidStudioProjects\FlashCardQuizApp2\app\src\main\java\vcmsa\ci\flashcardquizapp\ui\theme\Color.kt
+C:\Users\lab_services_student\AndroidStudioProjects\FlashCardQuizApp2\app\src\main\java\vcmsa\ci\flashcardquizapp\ReviewActivity.kt
+C:\Users\lab_services_student\AndroidStudioProjects\FlashCardQuizApp2\app\src\main\java\vcmsa\ci\flashcardquizapp\ui\theme\Theme.kt
+C:\Users\lab_services_student\AndroidStudioProjects\FlashCardQuizApp2\app\src\main\java\vcmsa\ci\flashcardquizapp\ui\theme\Type.kt
+C:\Users\lab_services_student\AndroidStudioProjects\FlashCardQuizApp2\app\src\main\java\vcmsa\ci\flashcardquizapp\WelcomeActivity.kt
+C:\Users\lab_services_student\AndroidStudioProjects\FlashCardQuizApp2\app\src\main\java\vcmsa\ci\flashcardquizapp\MainActivity.kt
+C:\Users\lab_services_student\AndroidStudioProjects\FlashCardQuizApp2\app\src\main\java\vcmsa\ci\flashcardquizapp\ScoreActivity.kt
