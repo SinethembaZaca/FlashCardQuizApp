@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FlashCar"dQuizApp</string>
+    <string name="correct_feedback">Correct!&#128077;</string>
+    <string name="incorrect_feedback">Incorrect!&#128078;</string>
+    <string name="quiz_question">The Berlin wall fell in 1989</string>
+    <string name="score_text">You scored %1$d out of 5</string>
+    <string name="well_done">Well Done!&#128077;</string>
+    <string name="play_again">Play Again&#128078;</string>
+    <string name="review_content">Review Content</string>
+    <string name="your_score">Your Score</string>
+    <string name="feedback">Feedback</string>
+    <string name="check_answers">Check Answers</string>
+    <string name="leave_quiz">Leave Quiz</string>
+    <string name="true_text">True</string>
+    <string name="false_text">False</string>
+    <string name="next_text">Next</string>
+    <string name="question_text">The Berlin Wall fell in 1989</string>
+    <string name="welcome_message">Welcome to Flashcard History Quiz</string>
+    <string name="welcome_description">Test your knowledge with 5 true or false questions.</string>
+    <string name="start_quiz_button">Start Quiz</string>
+    <string name="exit_button_text">Exit</string>
+    <string name="review_title">Review</string>
+    <string name="answer_feedback">Here are your answers with feedback</string>
+    <string name="review_button">Review Answers</string>
+    <string name="welcome_text">Welcome to Flashcard Quiz!</string>
+
+</resources>

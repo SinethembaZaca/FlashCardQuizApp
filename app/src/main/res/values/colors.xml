@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="welcome_background">#00FFFF</color>
+   <color name="welcome_text">#F0FFFF</color>
+   <color name="button_background">#DC143C</color>
+   <color name="button_text">#F0FFFF</color>
+   <color name="quiz_background">#008B8B</color>
+   <color name="quiz_text">#000000</color>
+   <color name="button_true">#DC143C</color>
+   <color name="button_false">#00008B</color>
+   <color name="button_next">#2F4F4F</color>
+   <color name="review_background">#008B8B</color>
+   <color name="review_text">#F0FFFF</color>
+   <color name="button_primary">#DC143C</color>
+</resources>

@@ -1,0 +1,14 @@
+ # Built files
+ /build/
+ /.idea/
+ /.gradle/
+ /local.properties
+
+ # Sign-in files
+ *.jks
+
+ # Mac system files
+ .DS_Store
+
+ # Android Studio
+ *.iml

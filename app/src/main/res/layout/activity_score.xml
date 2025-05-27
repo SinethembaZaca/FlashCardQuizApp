@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scoreLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/scoreTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/your_score"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:id="@+id/feedbackTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/feedback"
+        android:textSize="18sp"
+        android:layout_marginBottom="24dp" />
+
+    <Button
+        android:id="@+id/exitButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/exit_button_text"
+        android:backgroundTint="@color/button_primary"
+        android:textColor="@color/button_text"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/reviewButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/review_button"
+        android:backgroundTint="@color/button_primary"
+        android:textColor="@color/button_text"
+        android:layout_marginBottom="16dp" />
+</LinearLayout>
